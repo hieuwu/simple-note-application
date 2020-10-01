@@ -1,5 +1,5 @@
 # Overview:
-In this project, I use some techniques at entry level in Android application development. This is suitable for students and people who is new to Android.
+In this project, I use some techniques at entry level in Android application development. This is suitable for students or people who is new to Android.
 # With this project, you would know how to:
 <ul>
   <li>Pass object data between screens</li>

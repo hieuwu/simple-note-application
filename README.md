@@ -1,3 +1,4 @@
+![Scala CI](https://github.com/hieuwu/simple-note-application/workflows/Scala%20CI/badge.svg)
 # Overview:
 In this project, I use some techniques at entry level in Android application development. This is suitable for students or people who is new to Android.
 # With this project, you would know how to:

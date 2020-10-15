@@ -2,20 +2,17 @@
 # Overview:
 In this project, I used some techniques at entry level in Android application development. This is suitable for students or people who are new to Android.
 # With this project, you would know how to:
-<ul>
-  <li>Pass object data between screens</li>
-  <li>Save and load object data from application to local storage</li>
-  <li>Basic UI elements</li>
-  <li>Implement the search feature</li>
-</ul>
+- Pass object data between screens
+- Save and load object data from application to local storage
+- Basic UI elements
+- Implement the search feature
 
 # What I learned:
-<ul>
-  <li>Intent</li>
-  <li>Shared prereferences</li>
-  <li>Filter in ListView</li>
-  <li>Context menu</li>
-</ul>
+
+- Intent
+- Shared prereferences
+- Filter in ListView
+- Context menu
 
 # How to build:
 Clone this repository into your local and open with Android Studio.

@@ -15,4 +15,7 @@ In this project, I used some techniques at entry level in Android application de
 - Context menu
 
 # How to build:
-Clone this repository into your local and open with Android Studio.
+Clone this repository into your local and open with Android Studio
+
+#EXAMPLE
+dfhgsdgfhdfghsdf.
